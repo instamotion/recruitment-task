@@ -1,4 +1,4 @@
-[![instamotion_logo](https://raw.githubusercontent.com/Instamotion/recruitment-task/master/logo.svg?sanitize=true)](https://www.instamotion.com/)
+[![instamotion_logo](img/instamotion_logo.png)](https://www.instamotion.com/)
 
 # Recruitment task
 
