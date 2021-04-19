@@ -43,6 +43,7 @@ Create an CRUD application that will show the list of vehicles on initial load. 
 - use best practices for code structure
 - make sure your code is well tested
 - provide documentation with step by step on how to run the project locally
+- provide URL to the project respository
 
 ### Useful resources:
 
