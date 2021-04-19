@@ -1,3 +1,5 @@
+[![instamotion_logo](https://raw.githubusercontent.com/Instamotion/recruitment-task/master/logo.svg?sanitize=true)](https://www.instamotion.com/)
+
 # Recruitment task
 
 Create an CRUD application that will show the list of vehicles on initial load. Application should also support adding new vehicles and updating and removing existing ones.
