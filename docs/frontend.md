@@ -39,6 +39,8 @@
   - page should have unique url
 - Upon clicking on back button within the browser or going back to listing page (link), user should land at the same place where he left off on listing page
 
+All elements on listing page, on the product tile and product detail page should be styled and placed according to you own judgement.
+
 ### General
 
 - Pages should be responsive (Desktop/Tablet/Mobile)
