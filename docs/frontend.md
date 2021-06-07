@@ -104,7 +104,7 @@ GraphQL variables:
 
 ### Setting up development API
 
-Setup backend server which will be responsible for delivering the data to the frontend application. Bonus points, if backend is written using GraphQL. You might look into [json-graphql-server](https://github.com/marmelab/json-graphql-server), for easy setup, but you are free to use whatever you want.
+Setup backend server which will be responsible for delivering the data to the frontend application. Bonus points, if backend supports GraphQL. Feel free to use whatever you want for your backend.
 
 ### Useful resources
 
@@ -112,4 +112,3 @@ Setup backend server which will be responsible for delivering the data to the fr
 - [TypeScript](https://www.typescriptlang.org/)
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design)
-- [json-graphql-server](https://github.com/marmelab/json-graphql-server)
