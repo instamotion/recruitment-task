@@ -55,7 +55,7 @@ All elements on listing page, on the product tile and product detail page should
 
 ## Extracting the data
 
-You can use our [GraphQL](https://im-graphql.dev.instamotion.com) from development environment to seed or extract the vehicle data into you database/backend. Make sure you extract enough data, to be able to:
+You can use our [GraphQL](https://im-graphql.instamotion.com) to seed or extract the vehicle data into you database/backend. Make sure you extract enough data, to be able to:
 
 - implement lazy loading of vehicle tiles on listing page
 - filtering is working and applicable
