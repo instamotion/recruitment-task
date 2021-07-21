@@ -1,9 +1,10 @@
 # Backend Task
 
-Create a CRUD service that will show the list of vehicles, support adding new vehicles and updating and removing existing ones.
+Create a CRUD service that will show the list of vehicles, support adding new vehicles and updating and removing existing ones. You should also create similar endpoints for adding the dealers. Each vehicle should belong to particular dealer. Create additional endpoint for listing all the vehicles of particular dealer.
 
 ## Vehicle object should contain at least following properties
 
+- unique id
 - date of creation
 - date of last update
 - make - Audi, BMW, VW, Mercedes etc.
@@ -29,6 +30,15 @@ Create a CRUD service that will show the list of vehicles, support adding new ve
   - Small car
   - Other
 - vehicle color
+- relation to dealer
+
+## Dealer object should contain at least following properties
+
+- unique id
+- date of creation
+- date of last update
+- dealer name
+- relation to vehicle
 
 ## Requirements
 
@@ -37,6 +47,7 @@ Create a CRUD service that will show the list of vehicles, support adding new ve
 - API should be done via [GraphQL](https://graphql.org/)
 - use TypeScript for your projects
 - use GraphQL for API
+- add caching layer for the requests where it makes sense
 - use best practices for code structure
 - make sure your code is well tested
 - provide documentation with step by step on how to run the project locally
