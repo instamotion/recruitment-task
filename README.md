@@ -1,4 +1,4 @@
-[![instamotion_logo](img/instamotion_logo.png)](https://www.instamotion.com/)
+[![instamotion_logo](img/instamotion_Logo_blue.png)](https://www.instamotion.com/)
 
 # Recruitment tasks
 
