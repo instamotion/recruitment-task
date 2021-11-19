@@ -6,6 +6,7 @@ We have frontend and backend tasks. Feel free to choose whichever you feel more 
 
 - [backend](docs/backend.md)
 - [frontend](docs/frontend.md)
+- [frontend simplified](docs/frontend-simpflified.md)
 
 ## What will we be paying attention to
 
