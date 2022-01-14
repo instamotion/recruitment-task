@@ -4,9 +4,13 @@
 
 We have frontend and backend tasks. Feel free to choose whichever you feel more comfortable with.
 
-- [backend](docs/backend.md) - For Senior Software Engineer
-- [frontend](docs/frontend.md) - For Senior Software Engineer
-- [frontend simplified](docs/frontend-simplified.md) - For Junior/Intermediate Software Engineer
+For Senior Software Engineer:
+- [backend](docs/backend.md)
+- [frontend](docs/frontend.md)
+
+For Junior/Intermediate Software Engineer:
+- [backend simplified](docs/backend-simplified.md)
+- [frontend simplified](docs/frontend-simplified.md)
 
 ## What will we be paying attention to
 
