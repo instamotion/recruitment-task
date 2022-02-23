@@ -12,6 +12,9 @@ For Junior/Intermediate Software Engineer:
 - [backend simplified](docs/backend-simplified.md)
 - [frontend simplified](docs/frontend-simplified.md)
 
+For BI
+- Analyst(https://github.com/SourabhDan/task)
+
 ## What will we be paying attention to
 
 - How you split code for components
