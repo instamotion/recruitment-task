@@ -43,15 +43,17 @@ All elements on listing page, on the product tile and product detail page should
 
 ### General
 
+- Use functional components
+- Use [atomic design](https://bradfrost.com/blog/post/atomic-web-design/) to structure your components 
 - Pages should be responsive (Desktop/Tablet/Mobile)
 - Pages should have highest possible score in PageSpeed Insights
 - Utilise browser caching or any other caching
 - Any other page optimisations are welcomed
 - [Next.js](https://nextjs.org/) should be used for frontend application
-- use TypeScript for your projects
-- use best practices for code structure
-- make sure your code is well tested
-- provide documentation with step by step on how to run the project locally
+- Use TypeScript for your projects
+- Use best practices for code structure
+- Make sure your code is well tested
+- Provide documentation with step by step on how to run the project locally
 
 ## Extracting the data
 
