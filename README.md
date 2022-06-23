@@ -13,7 +13,10 @@ For Junior/Intermediate Software Engineer:
 - [frontend simplified](docs/frontend-simplified.md)
 
 For BI
-- Analyst(https://github.com/SourabhDan/task)
+- [Analyst](https://github.com/SourabhDan/task)
+
+For DevOps
+- [Senior DevOps](docs/devops.md)
 
 ## What will we be paying attention to
 
