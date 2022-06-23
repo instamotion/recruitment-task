@@ -42,8 +42,8 @@ Create a CRUD service that will show the list of vehicles, support adding new ve
 
 ## Requirements
 
-- backend should be written using [serverless](https://www.serverless.com/)
-- [DynamoDB](https://aws.amazon.com/dynamodb/) should be used as a storage
+- backend should be written using [serverless](https://www.serverless.com/) (you can use either [LocalStack](https://github.com/localstack/localstack) or [Serverless Offline](https://www.npmjs.com/package/serverless-offline) to run it locally)
+- [MongoDB](https://www.mongodb.com/) should be used as a storage
 - API should be written as REST
 - use TypeScript for your projects
 - use best practices for code structure
@@ -53,5 +53,5 @@ Create a CRUD service that will show the list of vehicles, support adding new ve
 
 ### Useful resources
 
-- [Build serverless with GraphQL API and DynamoDB](https://www.serverless.com/blog/make-serverless-graphql-api-using-lambda-dynamodb)
+- [Serverless Nodejs Rest API with TypeScript And MongoDB](https://www.serverless.com/examples/aws-node-rest-api-typescript)
 - [Running DynamoDB locally](https://docs.aws.amazon.com/en_en/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html)
