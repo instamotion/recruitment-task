@@ -54,4 +54,4 @@ Create a CRUD service that will show the list of vehicles, support adding new ve
 ### Useful resources
 
 - [Serverless Nodejs Rest API with TypeScript And MongoDB](https://www.serverless.com/examples/aws-node-rest-api-typescript)
-- [Running DynamoDB locally](https://docs.aws.amazon.com/en_en/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html)
+- [Running MongoDB locally](https://hub.docker.com/_/mongo/)
