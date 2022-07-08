@@ -6,26 +6,26 @@ Car dealership is digitalising their business. They want to build an online orde
 As one of the devops engineers in the project, your task is to deploy services that were developed by the development team
 and make it available on the internet.
 
-## Below are information given by the development team
+## Below are requirements given by the development team
 
 ### Global environment requirement
 
 - start a mongodb instance, reachable for backend
 
-### How to start the backend?
+### How to run the server service
 
 - required nodejs 16
 - set environment variable
   - `MONGODB_URL="<mongodb connection url>"` - where `<mongodb connection url>` must match the [official mongodb node driver uri](https://docs.mongodb.com/drivers/node/current/fundamentals/connection/#connection-uri)
-- navigate to backend directory `cd backend`
+- navigate to backend directory `cd server`
 - build using npm `npm install`
 - start using node `node index.js`
 
-### How to start the frontend?
+### How to run the client service
 
-- navigate to frontend directory `cd frontend`
+- navigate to frontend directory `cd client`
 - modify the variable `backendUrl` to the actual backend endpoint
-- serve the http server root from `frontend/`
+- serve the http server root from `client/`
 
 ## Requirements
 
