@@ -2,14 +2,14 @@ import { useEffect, useState, useCallback } from 'react';
 import axios from 'axios';
 import './App.css';
 
+const backendUrl = "http://localhost:3001";
+
+const client = axios.create({
+    baseURL: backendUrl,
+});
+
 const App = () => {
     const [orders, setOrders] = useState([]);
-
-    const backendUrl = "http://localhost:3001";
-
-    const client = axios.create({
-        baseURL: backendUrl,
-    });
 
     const loadOrders = useCallback(async () => {
         const orders = await client.get('/orders');

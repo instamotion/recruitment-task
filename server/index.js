@@ -2,7 +2,7 @@ const { MongoClient } = require('mongodb');
 const express = require('express');
 const cors = require('cors');
 const app = express();
-const port = 3000;
+const port = process.env.API_PORT;
 const url = process.env.MONGODB_URL;
 const dbName = 'recruitment_task';
 
