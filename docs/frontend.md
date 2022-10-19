@@ -83,7 +83,6 @@ query getOffers($q: JSON!) {
       gearbox
       condition
       variant
-      topOfferDiscount
       category
       exteriorColor
       cubicCapacity
