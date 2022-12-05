@@ -49,7 +49,7 @@ All elements on listing page, on the product tile and product detail page should
 - Pages should have highest possible score in PageSpeed Insights
 - Utilise browser caching or any other caching strategy
 - Any other page optimisations are welcomed
-- [Create React App](https://github.com/facebook/create-react-app) should be used for frontend application
+- [Create React App](https://github.com/facebook/create-react-app) or [Next.js](https://nextjs.org/) should be used for frontend application
 - Use TypeScript for your projects
 - Use best practices for code structure
 - Make sure your code is well tested
@@ -65,6 +65,7 @@ You can use this API [here](http://demo9481430.mockable.io/offers) to seed or lo
 ### Useful resources
 
 - [Create React App](https://github.com/facebook/create-react-app)
+- [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design)
