@@ -51,6 +51,8 @@ Create a CRUD service that will show the list of vehicles, support adding new ve
 - use best practices for code structure
 - make sure your code is well tested
 - provide documentation with step by step on how to run the project locally
+- make sure design principles are followed such as SOLID, YAGNI, KISS, DRY etc.
+- make sure design patterns are used where applicable
 
 ### Useful resources
 
