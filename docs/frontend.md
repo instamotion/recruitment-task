@@ -54,6 +54,8 @@ All elements on listing page, on the product tile and product detail page should
 - Use best practices for code structure
 - Make sure your code is well tested
 - Provide documentation with step by step on how to run the project locally
+- Design principles such as SOLID, YAGNI, KISS, DRY etc. are being followed
+- Design patterns are used where applicable
 
 ## Extracting the data
 
