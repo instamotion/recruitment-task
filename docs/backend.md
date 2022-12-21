@@ -42,17 +42,17 @@ Create a CRUD service that will show the list of vehicles, support adding new ve
 
 ## Requirements
 
-- backend should be written using [serverless](https://www.serverless.com/)
+- Backend should be written using [serverless](https://www.serverless.com/)
 - [DynamoDB](https://aws.amazon.com/dynamodb/) should be used as a storage
 - API should be done via [GraphQL](https://graphql.org/)
-- use TypeScript for your projects
-- use GraphQL for API
-- add caching layer for the requests where it makes sense
-- use best practices for code structure
-- make sure your code is well tested
-- provide documentation with step by step on how to run the project locally
-- make sure design principles are followed such as SOLID, YAGNI, KISS, DRY etc.
-- make sure design patterns are used where applicable
+- Use TypeScript for your projects
+- Use GraphQL for API
+- Add caching layer for the requests where it makes sense
+- Use best practices for code structure
+- Code is well tested (unit tests are minimum)
+- Provide documentation with step by step how to run the project locally
+- Design principles such as SOLID, YAGNI, KISS, DRY etc. are being followed
+- Design patterns are used where applicable
 
 ### Useful resources
 
