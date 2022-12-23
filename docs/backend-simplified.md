@@ -45,11 +45,13 @@ Create a CRUD service that will show the list of vehicles, support adding new ve
 - backend should be written using [serverless](https://www.serverless.com/) (you can use either [LocalStack](https://github.com/localstack/localstack) or [Serverless Offline](https://www.npmjs.com/package/serverless-offline) to run it locally)
 - [MongoDB](https://www.mongodb.com/) should be used as a storage
 - API should be written as REST
-- use TypeScript for your projects
-- use best practices for code structure
-- create API documentation
-- make sure your code is well tested
-- provide documentation with step by step on how to run the project locally
+- Use TypeScript
+- Best practices are used for code structure
+- Create API documentation
+- Code is well tested
+- Provide documentation with step by step on how to run the project locally
+- Design principles such as SOLID, YAGNI, KISS, DRY etc. are being followed
+- Design patterns are used where applicable
 
 ### Useful resources
 
