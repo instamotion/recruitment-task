@@ -57,7 +57,7 @@ All elements on listing page, on the product tile and product detail page should
 
 ## Extracting the data
 
-You can use this API [here](https://instamotion.free.beeceptor.com/offers) to seed or load the vehicle data. Make sure you use enough data, to be able to:
+You can use this API [here](https://run.mocky.io/v3/e7d5a5aa-8bdf-4a36-b6ab-134c08df916b) to seed or load the vehicle data. Make sure you use enough data, to be able to:
 
 - implement lazy loading of vehicle tiles on listing page
 - filtering is working and applicable
