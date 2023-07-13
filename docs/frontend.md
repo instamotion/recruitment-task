@@ -68,28 +68,41 @@ Query:
 
 ```javascript
 query getOffers($q: JSON!) {
-  getOffers(q: $q) {
+  getOffersV3(q: $q) {
     records {
-      make
+      brand
       model
-      mileage
-      power
-      firstRegistration
-      fuel
-      consumptionUnit
-      consumptionCombined
-      co2
-      price
-      image
-      monthlyInstallment
-      gearbox
-      condition
-      variant
+      performance
+      vehicle_history {
+        reg_date
+      }
+      drivetrain {
+        fuel {
+          type
+        }
+        consumption {
+          unit
+          consumption_combined
+        }
+        transmission_type
+        cc
+      }
+      im_price {
+        consumer_price_gross
+      }
+      media {
+        final { 
+          url
+        }
+      }
+      technical_features {
+        drive
+      }
+      vehicle_type {
+        condition
+      }
       category
-      exteriorColor
-      cubicCapacity
-      fourWheelDrive
-      images
+      color
     }
   }
 }
@@ -101,7 +114,6 @@ GraphQL variables:
 {
   "q": {
     "page-size": 27,
-    "sort-by": "financing.monthlyInstallment::asc",
     "page": 1
   }
 }
